@@ -1,6 +1,6 @@
 # Packet Analyzer ML — Python Rewrite
 
-A Python + ML reimplementation of the [perryvegehan/Packet_analyzer](https://github.com/perryvegehan/Packet_analyzer) C++ DPI engine, extended with machine learning traffic classification.
+A Python + ML reimplementation of the DPI engine, with machine learning traffic classification.
 
 ---
 
